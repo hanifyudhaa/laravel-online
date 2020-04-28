@@ -41,6 +41,12 @@ class OnlineClassController extends Controller
      */
     public function store(Request $request)
     {
+        $request->validate([
+            "namaKelas" => "required|unique:classes,namaKelas",
+            "shortDesc"  => "required",
+            "desc"       => "required",
+        ]);
+
         $classes = new OnlineClass();
 
         $classes->nama_kelas = $request->post("namaKelas");
