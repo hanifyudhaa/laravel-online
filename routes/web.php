@@ -13,8 +13,6 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-Route::get('/', function () {
-    return view('main');
-});
+Route::get('/',"OnlineClassController@index")->name("list");
 
 Route::resource("online-class","OnlineClassController");

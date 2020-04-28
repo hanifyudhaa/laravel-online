@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="5bfd9b4b-52d0-40de-a142-e7be44c94518" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/OnlineClassController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/OnlineClassController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/online-class/form-insert.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/online-class/form-insert.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -168,7 +166,7 @@
       <workItem from="1587742414263" duration="12806000" />
       <workItem from="1587788356429" duration="476000" />
       <workItem from="1587789074070" duration="1252000" />
-      <workItem from="1588052416568" duration="1856000" />
+      <workItem from="1588052416568" duration="2489000" />
     </task>
     <servers />
   </component>
